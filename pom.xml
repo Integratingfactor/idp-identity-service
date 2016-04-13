@@ -25,6 +25,10 @@
 			<version>0.0.1</version>
 		</dependency>
 		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>com.integratingfactor.idp</groupId>
 			<artifactId>if-idp-common</artifactId>
 			<version>0.0.1</version>
