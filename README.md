@@ -1,2 +1,2 @@
-# if-idp-identity
-IDP uService for validating identity service
+# idp-user-service
+IDP uService for user's identity
